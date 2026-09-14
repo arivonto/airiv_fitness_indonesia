@@ -1,0 +1,6 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_airiv_fitness_trainer_user,airiv.fitness.trainer user,model_airiv_fitness_trainer,base.group_user,1,1,1,0
+access_airiv_fitness_member_user,airiv.fitness.member user,model_airiv_fitness_member,base.group_user,1,1,1,0
+access_airiv_fitness_plan_user,airiv.fitness.membership.plan user,model_airiv_fitness_membership_plan,base.group_user,1,1,1,0
+access_airiv_fitness_assessment_user,airiv.fitness.assessment user,model_airiv_fitness_assessment,base.group_user,1,1,1,0
+access_airiv_fitness_progress_user,airiv.fitness.progress user,model_airiv_fitness_progress,base.group_user,1,1,1,0

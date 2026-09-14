@@ -1,0 +1,12 @@
+<odoo noupdate="1">
+    <record id="fitness_plan_starter" model="airiv.fitness.membership.plan">
+        <field name="name">Starter Wellness</field>
+        <field name="duration_days">30</field>
+        <field name="price">299000</field>
+    </record>
+    <record id="fitness_plan_unlimited" model="airiv.fitness.membership.plan">
+        <field name="name">Unlimited Active</field>
+        <field name="duration_days">30</field>
+        <field name="price">599000</field>
+    </record>
+</odoo>
