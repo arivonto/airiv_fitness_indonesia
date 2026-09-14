@@ -12,6 +12,8 @@ assessments, wellness scoring, and progress tracking.
     "author": "AIRIV",
     "website": "https://airiv.id",
     "license": "LGPL-3",
+    "price": 0.0,
+    "currency": "EUR",
     "images": ["static/description/banner.png"],
     "depends": ["base", "contacts", "product", "airiv_os_core"],
     "data": [
